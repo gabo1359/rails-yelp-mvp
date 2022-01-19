@@ -1,0 +1,27 @@
+// Place all the styles related to the restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+ul {
+    margin: 30px;
+}
+
+.btn {
+    position: absolute;
+    right: 40px;
+}
+
+.show {
+    margin: 20px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.rating {
+    border: 1px solid rgb(126, 126, 126);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: white;
+}
